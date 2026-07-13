@@ -2,8 +2,6 @@ Hi, I'm Priyankaa 👋
 
 Bridging Engineering & Delivery — Cloud Platform Leadership + Technical Programme Management. I sit at the intersection of technical depth and delivery leadership: equally comfortable in a Terraform/Ansible file or an architecture review as I am running governance for a multi-million-pound transformation portfolio.
 
-📍 Reading, England, UK · Currently at Capital One
-
 💼 About
 
 Over 9+ years across Capital One, AWS, Boeing Defence, and Costain, I've worked on both sides of the delivery line:
