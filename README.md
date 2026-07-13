@@ -24,20 +24,6 @@ Technical Project Manager / Scrum Master & DevOps Delivery Lead, Boeing Intellig
 Infrastructure Program Manager/Engineer, Costain Group PLC (2017–2018)
 Graduate Unix/Middleware Systems Engineer, TSYS (2016–2017)
 
-
-🛠️ Tech Stack
-
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-
 📌 Pinned Projects
 
 
@@ -51,6 +37,7 @@ RHEL-7 — RHEL 7 configuration scripts
 
 🏆 Recognition
 
+
 🏅 TechWomen100 Winner (2023) — recognised among the top 100 women in UK technology, WeAreTechWomen
 🎓 MSc Electrical & Electronics Engineering, University of Leeds
 
@@ -62,4 +49,3 @@ Inclusion Program Manager at both Capital One and AWS, championing diversity and
 📫 Connect
 
 LinkedIn · Always happy to connect with people working at the boundary of engineering and delivery.
-
